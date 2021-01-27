@@ -4,3 +4,5 @@
 
 You can search for countries by their names.
 More info for the selected country can be seen on the singular country's page.
+
+URL: devteecountries.netlify.app
